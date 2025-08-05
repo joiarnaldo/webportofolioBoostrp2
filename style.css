@@ -1,0 +1,40 @@
+#navbarSupportedContent ul li a{
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	padding: 0 10px;
+}
+
+.navbar{
+	background: radial-gradient(orange,lightseagreen);
+
+} 
+.navbar{
+	padding: 30px;
+}
+
+
+#carouselExampleIndicators img{
+	width: 100px;
+	height: 360px;
+}
+
+.page-selection img{
+	width: 350px;
+	border-radius: 10px;
+	height: 150px;
+}
+.#navbarSupportedContent a:hover{
+	font-size: 18px;
+	color: white;
+	font-weight: 500;
+	margin: 0 20px;
+	border-bottom: 2px solid black;
+	padding: 0px 1px;
+}
+.container-fluid{
+	padding: 50px 0 ;
+	color: white;
+
+}
+
